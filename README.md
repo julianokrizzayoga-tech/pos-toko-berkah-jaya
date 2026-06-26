@@ -41,3 +41,19 @@ Aplikasi Point of Sale (POS) desktop berbasis Java Swing untuk manajemen toko re
 5. Clean & Build → Run project
 
 ## Struktur Project
+
+TokoBerkahJaya/
+
+├── src/
+
+│   ├── koneksi/        # Koneksi database
+
+│   ├── service/        # Midtrans & QRIS service
+
+│   └── view/           # Semua form UI
+
+├── nbproject/          # Konfigurasi NetBeans
+
+├── 
+
+└── 
